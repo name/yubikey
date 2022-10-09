@@ -8,4 +8,6 @@
 
 
 gpg-agent.conf File contents:
+
+
 enable-putty-support
